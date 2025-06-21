@@ -1,0 +1,20 @@
+{
+  "name": "mObywatel",
+  "short_name": "mObywatel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/images/IMG_2863.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/IMG_2863.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
